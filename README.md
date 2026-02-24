@@ -229,3 +229,129 @@ Real-time messaging platform built with WebSockets and JWT authentication. Modul
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:0d1117&height=120&section=footer" />
 
 </div>
+
+
+
+
+
+
+---
+
+## 📊 GitHub Analytics & Graphs
+
+<div align="center">
+
+<!-- Overall GitHub Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmirSohelSardar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirSohelSardar&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=ff6b6b&currStreakLabel=00e5ff" />
+
+<br/><br/>
+
+<!-- Language Stats -->
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirSohelSardar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirSohelSardar&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AmirSohelSardar&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
+
+---
+
+## 🚀 What I’m Currently Working On
+
+- 🔨 Building **production-ready MERN applications**
+- 🧠 Improving **DSA & problem solving** using C++
+- ⚡ Working with **real-time systems** (WebSockets, WebRTC)
+- 🔐 Implementing **JWT & Role-Based Authentication**
+- ☁️ Deploying scalable apps on **Vercel & Cloud platforms**
+
+---
+
+## 🎯 Career Goals
+
+- 🎓 Graduate as a **strong Full Stack Engineer (2026)**
+- 💼 Secure a **Software Engineer / Full Stack Developer role**
+- 🌍 Work on **large-scale real-world systems**
+- 🤝 Contribute to **open-source projects**
+- 📈 Grow into a **backend & system-design focused engineer**
+
+---
+
+## 🧠 DSA & Problem Solving
+
+- ✅ Solved **300+ DSA problems**
+- 🧩 Strong in:
+  - Arrays & Strings
+  - Linked Lists
+  - Stacks & Queues
+  - Trees & Graphs
+  - Recursion & Backtracking
+  - Dynamic Programming (Basics)
+- 🛠 Practicing with **C++**
+
+> *“First make it work, then make it right, then make it fast.”*
+
+---
+
+## 🧪 Backend & System Design Focus
+
+I enjoy designing **backend-heavy systems**, including:
+
+- 🔐 Authentication & Authorization (JWT, RBAC)
+- 🗂️ RESTful API design
+- 🧠 Database schema design & indexing
+- 🚦 API performance optimization
+- 🔄 Real-time communication systems
+- 📊 Clean architecture & scalable backend code
+
+---
+
+## 📌 Highlights
+
+- ✅ **3+ live production projects**
+- ✅ **2 professional internships**
+- ✅ **Hands-on MERN stack experience**
+- ✅ **Real-time applications experience**
+- ✅ **Strong Git & GitHub workflow**
+
+---
+
+## 🧾 Certifications & Learning
+
+- 🎓 Web Developer Intern — Unified Mentor Pvt. Ltd.
+- 🎓 Full Stack Developer Intern — SayNoCash App
+- 📘 Academic coursework:
+  - DBMS
+  - Operating Systems
+  - Computer Networks
+  - Software Engineering
+- 📚 Continuous learner through documentation & projects
+
+---
+
+## 🕒 Weekly Development Breakdown
+
+```text
+Backend Development     ████████████░░░░  60%
+Frontend Development    ████████░░░░░░░░  40%
+DSA & Problem Solving   ███████░░░░░░░░░  35%
+Debugging               ████████░░░░░░░░  40%
+Learning & Reading      ██████░░░░░░░░░░  30%
