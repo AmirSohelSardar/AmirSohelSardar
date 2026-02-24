@@ -276,7 +276,7 @@ Real-time messaging platform built with WebSockets and JWT authentication. Modul
 
 ## 🧠 DSA & Problem Solving
 
-- ✅ Solved **300+ DSA problems**
+- ✅ Consistently solving **DSA problems** using C++
 - 🧩 Comfortable with:
   - Arrays & Strings
   - Linked Lists
