@@ -175,12 +175,12 @@ Real-time messaging platform built with WebSockets and JWT authentication. Modul
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmirSohelSardar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirSohelSardar&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=ff6b6b&currStreakLabel=00e5ff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmirSohelSardar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&count_private=true&cache_seconds=1800" />
+<img width="49%" src="https://streak-stats.demolab.com?user=AmirSohelSardar&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=ff6b6b&currStreakLabel=00e5ff&sideLabels=00e5ff" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirSohelSardar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&langs_count=6" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirSohelSardar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&langs_count=6&cache_seconds=1800" />
 
 </div>
 
@@ -190,7 +190,7 @@ Real-time messaging platform built with WebSockets and JWT authentication. Modul
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmirSohelSardar&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AmirSohelSardar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -200,7 +200,7 @@ Real-time messaging platform built with WebSockets and JWT authentication. Modul
 
 <div align="center">
 
-[![Amir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirSohelSardar&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Amir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirSohelSardar&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
