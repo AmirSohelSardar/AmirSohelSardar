@@ -241,7 +241,6 @@ Real-time messaging platform built with WebSockets and JWT authentication. Modul
 <div align="center">
 
 <!-- Overall GitHub Stats -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmirSohelSardar&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <!-- GitHub Streak -->
 <img width="48%" src="https://streak-stats.demolab.com?user=AmirSohelSardar&theme=tokyonight&hide_border=true" />
@@ -249,7 +248,7 @@ Real-time messaging platform built with WebSockets and JWT authentication. Modul
 <br/><br/>
 
 <!-- Top Languages -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirSohelSardar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 
 </div>
 
