@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d92,100:00e5ff&height=200&section=header&text=Amir Sohel%20Sohel%20Sardar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CSE%20%40%20JGEC%20%7C%20Class%20of%202026&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d92,100:00e5ff&height=200&section=header&text=Amir%20Sohel%20Sardar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CSE%20%40%20JGEC%20%7C%20Class%20of%202026&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Amir+%F0%9F%91%8B;Full+Stack+Developer+(MERN+Stack);B.Tech+CSE+%40+JGEC+%7C+2026+Passout;C%2B%2B+%7C+JavaScript+%7C+React+%7C+Node.js;Building+real+products+that+actually+ship+%F0%9F%9A%80)](https://git.io/typing-svg)
