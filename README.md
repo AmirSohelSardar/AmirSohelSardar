@@ -234,42 +234,22 @@ Real-time messaging platform built with WebSockets and JWT authentication. Modul
 
 
 
-
 ---
 
-## 📊 GitHub Analytics & Graphs
+## 📊 GitHub Stats & Insights
 
 <div align="center">
 
 <!-- Overall GitHub Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmirSohelSardar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmirSohelSardar&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirSohelSardar&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=ff6b6b&currStreakLabel=00e5ff" />
+<!-- GitHub Streak -->
+<img width="48%" src="https://streak-stats.demolab.com?user=AmirSohelSardar&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<!-- Language Stats -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirSohelSardar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
----
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirSohelSardar&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AmirSohelSardar&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<!-- Top Languages -->
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirSohelSardar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -277,19 +257,19 @@ Real-time messaging platform built with WebSockets and JWT authentication. Modul
 
 ## 🚀 What I’m Currently Working On
 
-- 🔨 Building **production-ready MERN applications**
-- 🧠 Improving **DSA & problem solving** using C++
-- ⚡ Working with **real-time systems** (WebSockets, WebRTC)
-- 🔐 Implementing **JWT & Role-Based Authentication**
-- ☁️ Deploying scalable apps on **Vercel & Cloud platforms**
+- 🔨 Building **production-grade MERN stack applications**
+- 🧠 Strengthening **DSA & problem-solving** using C++
+- ⚡ Exploring **real-time systems** (WebSockets, WebRTC)
+- 🔐 Implementing **secure authentication & RBAC**
+- ☁️ Deploying scalable apps on **Vercel & cloud platforms**
 
 ---
 
 ## 🎯 Career Goals
 
-- 🎓 Graduate as a **strong Full Stack Engineer (2026)**
-- 💼 Secure a **Software Engineer / Full Stack Developer role**
-- 🌍 Work on **large-scale real-world systems**
+- 🎓 Graduate as a **strong Software Engineer (2026)**
+- 💼 Secure a **Full Stack / SDE role**
+- 🌍 Work on **real-world scalable systems**
 - 🤝 Contribute to **open-source projects**
 - 📈 Grow into a **backend & system-design focused engineer**
 
@@ -298,29 +278,29 @@ Real-time messaging platform built with WebSockets and JWT authentication. Modul
 ## 🧠 DSA & Problem Solving
 
 - ✅ Solved **300+ DSA problems**
-- 🧩 Strong in:
+- 🧩 Comfortable with:
   - Arrays & Strings
   - Linked Lists
   - Stacks & Queues
   - Trees & Graphs
   - Recursion & Backtracking
   - Dynamic Programming (Basics)
-- 🛠 Practicing with **C++**
+- 🛠 Practicing primarily with **C++**
 
-> *“First make it work, then make it right, then make it fast.”*
+> *“Make it work. Make it right. Make it scalable.”*
 
 ---
 
 ## 🧪 Backend & System Design Focus
 
-I enjoy designing **backend-heavy systems**, including:
+I enjoy working on **backend-heavy systems**, including:
 
-- 🔐 Authentication & Authorization (JWT, RBAC)
-- 🗂️ RESTful API design
-- 🧠 Database schema design & indexing
+- 🔐 JWT authentication & Role-Based Access Control
+- 🗂️ RESTful API design & validation
+- 🧠 Database schema design (MongoDB, indexing)
 - 🚦 API performance optimization
 - 🔄 Real-time communication systems
-- 📊 Clean architecture & scalable backend code
+- 📊 Clean architecture & modular backend code
 
 ---
 
@@ -329,7 +309,7 @@ I enjoy designing **backend-heavy systems**, including:
 - ✅ **3+ live production projects**
 - ✅ **2 professional internships**
 - ✅ **Hands-on MERN stack experience**
-- ✅ **Real-time applications experience**
+- ✅ **Real-time app development**
 - ✅ **Strong Git & GitHub workflow**
 
 ---
@@ -338,12 +318,12 @@ I enjoy designing **backend-heavy systems**, including:
 
 - 🎓 Web Developer Intern — Unified Mentor Pvt. Ltd.
 - 🎓 Full Stack Developer Intern — SayNoCash App
-- 📘 Academic coursework:
+- 📘 Core CS subjects:
   - DBMS
   - Operating Systems
   - Computer Networks
   - Software Engineering
-- 📚 Continuous learner through documentation & projects
+- 📚 Continuous learner through projects & documentation
 
 ---
 
@@ -353,5 +333,5 @@ I enjoy designing **backend-heavy systems**, including:
 Backend Development     ████████████░░░░  60%
 Frontend Development    ████████░░░░░░░░  40%
 DSA & Problem Solving   ███████░░░░░░░░░  35%
-Debugging               ████████░░░░░░░░  40%
+Debugging & Refactoring ████████░░░░░░░░  40%
 Learning & Reading      ██████░░░░░░░░░░  30%
