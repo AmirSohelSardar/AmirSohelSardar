@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d92,100:00e5ff&height=200&section=header&text=Amir%20Sohel%20Sardar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CSE%20%40%20JGEC%20%7C%20Class%20of%202026&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d92,100:00e5ff&height=200&section=header&text=Amir Sohel%20Sohel%20Sardar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CSE%20%40%20JGEC%20%7C%20Class%20of%202026&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Amir+%F0%9F%91%8B;Full+Stack+Developer+(MERN+Stack);B.Tech+CSE+%40+JGEC+%7C+2026+Passout;C%2B%2B+%7C+JavaScript+%7C+React+%7C+Node.js;Building+real+products+that+actually+ship+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -171,36 +171,32 @@ Real-time messaging platform built with WebSockets and JWT authentication. Modul
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub At a Glance
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmirSohelSardar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&count_private=true&cache_seconds=1800" />
-<img width="49%" src="https://streak-stats.demolab.com?user=AmirSohelSardar&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=ff6b6b&currStreakLabel=00e5ff&sideLabels=00e5ff" />
+![Contributions](https://img.shields.io/badge/Total%20Contributions-255-00e5ff?style=for-the-badge&logo=github&logoColor=white)
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-10%20Days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)
+![Repos](https://img.shields.io/badge/Repositories-Public%20%26%20Private-7c3aed?style=for-the-badge&logo=github&logoColor=white)
 
-<br/><br/>
+<br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirSohelSardar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&langs_count=6&cache_seconds=1800" />
+![C++](https://img.shields.io/badge/Top%20Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JS](https://img.shields.io/badge/Top%20Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Since](https://img.shields.io/badge/GitHub%20Since-Feb%202023-10b981?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmirSohelSardar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Amir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirSohelSardar&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Open Source](https://img.shields.io/badge/🌐_Live_Projects-3_Deployed-00e5ff?style=for-the-badge)
+![Internships](https://img.shields.io/badge/💼_Internships-2_Completed-7c3aed?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/🎓_CGPA-7.33%2F10-10b981?style=for-the-badge)
+![Final Year](https://img.shields.io/badge/📅_Batch-2026_Passout-ff6b6b?style=for-the-badge)
 
 </div>
 
